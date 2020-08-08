@@ -1,0 +1,62 @@
+{
+    "data" : [
+        {
+            "type": "folder",
+            "name": "root",
+            "modified": "2020-08-08T00:00:00.000Z",
+            "size": 100,
+            "children": [
+            {
+                "type": "file",
+                "name": "index.html",
+                "modified": "2020-08-07T00:00:00.000Z",
+                "size": 10,
+                "children": []
+            },
+            {
+                "type": "file",
+                "name": "home.html",
+                "modified": "2020-08-06T00:00:00.000Z",
+                "size": 80,
+                "children": []
+            },
+            {
+                "type": "file",
+                "name": "about.html",
+                "modified": "2020-08-05T00:00:00.000Z",
+                "size": 10,
+                "children": []
+            }
+            ]
+        },
+        {
+            "type": "folder",
+            "name": "home",
+            "modified": "2020-08-08T00:00:00.000Z",
+            "size": 100,
+            "children": [
+            {
+                "type": "file",
+                "name": "error.html",
+                "modified": "2020-08-07T00:00:00.000Z",
+                "size": 10,
+                "children": []
+            },
+            {
+                "type": "file",
+                "name": "name.html",
+                "modified": "2020-08-06T00:00:00.000Z",
+                "size": 80,
+                "children": []
+            },
+            {
+                "type": "file",
+                "name": "contact.html",
+                "modified": "2020-08-05T00:00:00.000Z",
+                "size": 10,
+                "children": []
+            }
+            ]
+        }
+    ]
+}
